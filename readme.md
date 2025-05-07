@@ -17,5 +17,8 @@ Esse programa gera licença baseado em data e endereço Físico do comuptador (E
 
 ## Uso
 
-Como usar o projeto:
+### Como Rodar o projeto
+Comando:
+```
 python gerar_chave.py
+```
