@@ -10,8 +10,10 @@ Esse programa gera licença baseado em data e endereço Físico do comuptador (E
 ### Passos para Instalar o projeto
 
 * Fazer o Download do Python
-* Digite o comando pip install -r requirements.txt
-
+* Digite o comando
+```
+ pip install -r requirements.txt
+```
 
 ## Uso
 
