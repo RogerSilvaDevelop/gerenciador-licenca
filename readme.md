@@ -1,5 +1,5 @@
 # Gerador de Licença 
-Esse programa gera licença baseado em data e endereço Físico do comuptador (Endereço MAC), uma ótima opção para distribuição de software com tempo limitado de uso.
+Esse programa gera licença baseado em data e endereço Físico do computador (Endereço MAC), uma ótima opção para distribuição de software com tempo limitado de uso.
 
 ## Tecnologias 
 
